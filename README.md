@@ -1,11 +1,10 @@
-# flutter_valorant
-
-A new Flutter project.
+# Flutter Valorant
 
 
 https://github.com/Justin-roy/flutter_valorant/assets/69432186/7c042afd-dd53-4fe3-99a1-f4ab78126400
 
 
+A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
