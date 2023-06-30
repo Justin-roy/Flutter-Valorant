@@ -7,6 +7,9 @@ The fantastic image UI of the app showcases vibrant artwork, dynamic backgrounds
 
 With its combination of Valorant API integration and a fantastic image UI, this Flutter app offers a captivating and immersive experience for Valorant enthusiasts, providing them with an intuitive and visually stunning platform to engage with the game and stay up to date with all the latest information.
 
+## Try APK
+[click me to download](https://github.com/Justin-roy/Flutter-Valorant/blob/main/apk/app-release.apk)
+
 ## Screenshots
 <img width="300" src="https://firebasestorage.googleapis.com/v0/b/instagram-clone-cf306.appspot.com/o/github_ss%2Fvalorant%20ss%2Fss1.jpg?alt=media&token=da3b39be-0a02-417f-a289-a6757a1354e7">  .
 <img width="300" src="https://firebasestorage.googleapis.com/v0/b/instagram-clone-cf306.appspot.com/o/github_ss%2Fvalorant%20ss%2Fss3.jpg?alt=media&token=da3b39be-0a02-417f-a289-a6757a1354e7">  .
