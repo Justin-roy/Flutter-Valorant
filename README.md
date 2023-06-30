@@ -17,7 +17,9 @@ With its combination of Valorant API integration and a fantastic image UI, this 
 
 
 ## Sample Video
-https://github.com/Justin-roy/flutter_valorant/assets/69432186/7c042afd-dd53-4fe3-99a1-f4ab78126400
+
+https://github.com/Justin-roy/Flutter-Valorant/assets/69432186/f4f8ae78-a3ec-4de3-b406-9cc5d2a16170
+
 
 
 ## Authors
